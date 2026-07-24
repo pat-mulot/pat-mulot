@@ -31,18 +31,18 @@ lien : https://pat-mulot.com/games/space-patvaders/
 
 principaux langages/techno utilisés : Javascript Vanilla
 
-repo git : https://github.com/[TODO]...[/TODO]/space-patvaders
+repo git : https://github.com/pat-mulot/space-patvaders
   
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
-![space-patvaders-img2](https://github.com/[TODO]...[/TODO]/space-patvaders/blob/main/space-patvaders-img2.JPG)
+![space-patvaders-img2](./space-patvaders-img-gb-2.png)
 
 ---
 ## CUL DE CHOUETTE
 > Projet réalisé "jour 2" en sortie de formation (2021) — première application web complète (frontend + backend, contenu administrable).
 
-lien vers l'application : https://pat-mulot.com/games/wpcdc/public
 lien direct vers le jeu : https://pat-mulot.com/games/[TODO : URL de la page jeu — et confirme-moi que wpcdc/public est bien la racine de l'app][/TODO]
+lien vers l'application : https://pat-mulot.com/games/wpcdc/public
 
 *Application complète autour du jeu de dés "cul de chouette" (règles communautaires du jeu évoqué dans la série Kaamelott) : accueil et articles administrables, page des règles, comptes joueurs, classement façon borne d'arcade et statistiques par joueur — et le jeu lui-même : lancers en deux temps, détection automatique des figures, mode entraînement ou adversaires scriptés.*
 
@@ -50,9 +50,9 @@ lien direct vers le jeu : https://pat-mulot.com/games/[TODO : URL de la page jeu
 
 principaux langages/techno utilisés : Javascript Vanilla, WordPress/PHP
 
-repo git : https://github.com/[TODO]...[/TODO]/cul-de-chouette
+repo git : https://github.com/pat-mulot/wpcdc
 
-![cdc-img1](https://github.com/[TODO]...[/TODO]/cul-de-chouette/blob/master/cdc-img1.JPG)
+![cdc-img1](./cdc-img-jeu-1.png)
 
 ---
 ## DivDraw
