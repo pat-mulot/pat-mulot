@@ -70,7 +70,8 @@ principaux langages/techno utilisés : Vue.js, SASS
 |![exemple-1](./divdraw-3.JPG)|![exemple-2](./ex1.png)|
 
 ---
->
-(\/)  
-(^.^)        
-(_>_)>     me contacter : ```pat.mulot.pro@gmail.com```  
+>(\/)
+>(^.^)
+>(_>_)>
+
+ me contacter : ```pat.mulot.pro@gmail.com```  
