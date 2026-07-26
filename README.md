@@ -11,9 +11,8 @@ L'essentiel de mon travail vit dans des codebases privées/clients, comme pour l
 ***Ici**, vous trouverez quelques projets personnels dont mes tout premiers, assumés tels quels."*
 
 # QUELQUES PROJETS
-*Mes projets personnels, point de départ de mon parcours dev :*
-
-*voir les projets : https://github.com/pat-mulot?tab=repositories*
+*Mes projets personnels, point de départ de mon parcours dev :*  
+*voir [les projets](https://github.com/pat-mulot?tab=repositories)*
 
 ## Space Pat-Vaders
 > Projet réalisé "jour 1" en sortie de formation (2021), expérimentation et premier projet frontend.
@@ -25,8 +24,8 @@ L'essentiel de mon travail vit dans des codebases privées/clients, comme pour l
 principaux langages/techno utilisés : Javascript Vanilla
 
 - Repo git : https://github.com/pat-mulot/space-patvaders
-- Application live : https://pat-mulot.com/games/space-patvaders/
-- Vidéo de démo : https://www.youtube.com/watch?v=3elcRETYWRM
+- 🎮 Application live : https://pat-mulot.com/games/space-patvaders/
+- 🎞️ Vidéo de démo : https://www.youtube.com/watch?v=3elcRETYWRM
   
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
@@ -39,13 +38,13 @@ principaux langages/techno utilisés : Javascript Vanilla
 
 *Application complète autour du jeu de dés "cul de chouette" (règles communautaires du jeu évoqué dans la série Kaamelott) : accueil et articles administrables, page des règles, comptes joueurs, classement façon borne d'arcade et statistiques par joueur — et le jeu lui-même : lancers en deux temps, détection automatique des figures, mode entraînement ou adversaires scriptés.*
 
-*Intérêt technique : première app fullstack — gestion de contenu administrable (WordPress), comptes et données persistantes (scores, statistiques) ; côté jeu, adversaires aux comportements scriptés différenciés (vitesse, prise de risque, aléa) et détection de figures/scoring complet en JS.*
+*Intérêt technique : première app fullstack, gestion de contenu administrable (WordPress), comptes et données persistantes (scores, statistiques) ; côté jeu, adversaires aux comportements scriptés différenciés (vitesse, prise de risque, aléa) et détection de figures/scoring complet en JS.*
 
 principaux langages/techno utilisés : Javascript Vanilla, WordPress/PHP
 
 - Repo git : https://github.com/pat-mulot/wpcdc
-- Application live : https://pat-mulot.com/games/wpcdc/public/game/
-- Vidéo de démo : https://www.youtube.com/watch?v=YL4Xv0PTakg
+- 🎮 Jouer en ligne : https://pat-mulot.com/games/wpcdc/public/game/
+- 🎞️ Vidéo de démo : https://www.youtube.com/watch?v=YL4Xv0PTakg
 
 |Aperçu||
 |---|---|
@@ -61,8 +60,8 @@ principaux langages/techno utilisés : Javascript Vanilla, WordPress/PHP
 principaux langages/techno utilisés : Vue.js, SASS
 
 - Repo git : https://github.com/pat-mulot/divdraw
-- Application live : https://pat-mulot.com/games/divdraw/#/en/
-- Vidéo de démo : https://www.youtube.com/watch?v=54F96AuAHUM
+- 🎮 Application live : https://pat-mulot.com/games/divdraw/#/en/
+- 🎞️ Vidéo de démo : https://www.youtube.com/watch?v=54F96AuAHUM
 
 |Aperçu||
 |---|---|
