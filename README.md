@@ -3,7 +3,6 @@
 *Du besoin flou à l'application livrée clé en main*
 
 *A propos :*
-
 *Ancien Concepteur/développeur de produits industriels en bureau d'études orienté éco-conception :bulb:, ancien musicien professionnel :guitar:, développeur web fullstack depuis 5 ans en environnement d'entreprise.
 L'essentiel de mon travail vit dans des codebases privées/clients, comme pour la plupart des devs pro. Mon parcours et mes réalisations professionnelles :*
 - *[profil **LinkedIn**](https://www.linkedin.com/in/patrice-mulot-844a4721b/)*.
@@ -70,8 +69,8 @@ principaux langages/techno utilisés : Vue.js, SASS
 |![exemple-1](./divdraw-3.JPG)|![exemple-2](./ex1.png)|
 
 ---
->(\/)
->(^.^)
->(_>_)>
 
- me contacter : ```pat.mulot.pro@gmail.com```  
+me contacter :
+```
+pat.mulot.pro@gmail.com
+```  
