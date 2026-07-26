@@ -60,7 +60,7 @@ principaux langages/techno utilisés : Javascript Vanilla, WordPress/PHP
 principaux langages/techno utilisés : Vue.js, SASS
 
 - Repo git : https://github.com/pat-mulot/divdraw
-- 🎮 Application live : https://pat-mulot.com/games/divdraw/#/en/
+- 🎮 Application live : https://pat-mulot.com/games/divdraw/#/en/creator
 - 🎞️ Vidéo de démo : https://www.youtube.com/watch?v=54F96AuAHUM
 
 |Aperçu||
