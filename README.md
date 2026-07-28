@@ -1,5 +1,6 @@
 ![banni%C3%A8re%20github](./banniere-dev.png)
-## Développeur Fullstack
+## Développeur Fullstack Confirmé
+PHP/Laravel - Vue.js - SQL - CI/CD Gitlab
 *Du besoin flou à l'application livrée clé en main*
 
 *A propos :*
