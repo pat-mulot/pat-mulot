@@ -6,16 +6,15 @@ PHP/Laravel - Vue.js - SQL - CI/CD Gitlab
 *A propos :*
 *Ancien Concepteur/développeur de produits industriels en bureau d'études orienté éco-conception :bulb:, ancien musicien professionnel :guitar:, développeur web fullstack depuis 5 ans en environnement d'entreprise.
 L'essentiel de mon travail vit dans des codebases privées/clients, comme pour la plupart des devs pro. Mon parcours et mes réalisations professionnelles :*  
-┌──────────┐ ┌──┐  
-│ [profil **LinkedIn**](https://www.linkedin.com/in/patrice-mulot-844a4721b/) │ │[**CV**](https://pat-mulot.com/projects/cv/) │  
-└──────────┘ └──┘
+- [profil **LinkedIn**](https://www.linkedin.com/in/patrice-mulot-844a4721b/)
+- [**CV**](https://pat-mulot.com/projects/cv/)
 
 ***Ici**, vous trouverez le projet de fond sur lequel je travaille aujourd'hui, ainsi que mes tout premiers projets personnels, assumés tels quels.*
 
 # PROJET ACTUEL
 
 ## Écosystème Laravel/Vue « metadata-driven » + générateur de code
-> Projet personnel de fond, ~2 ans de travail, toujours en cours. **Code privé** — le socle n'est pas stabilisé. Je le décris ici parce qu'il représente l'essentiel de mon travail de conception.
+> Projet personnel de fond, ~2 ans de travail, toujours en cours. **Code privé**, le socle n'est pas stabilisé. Je le décris ici parce qu'il représente l'essentiel de mon travail de conception.
 
 **Le problème :** quand on développe plusieurs applications métier proches, on les redéveloppe presque à l'identique, puis on les maintient séparément. Un correctif de sécurité trouvé sur l'application A ne remonte jamais jusqu'à l'application B. Ce n'est pas un coût de production, c'est un coût de maintenance qui se paie pendant des années et la génération par IA amplifie le phénomène plutôt qu'elle ne le résout : régénérer N fois un code chaque fois légèrement différent, c'est repayer la production, repayer la relecture, et produire N variantes divergentes.
 
@@ -55,9 +54,9 @@ principaux langages/techno utilisés : Javascript Vanilla
 |![space-patvaders-img2](./space-patvaders-img-gb-2.png)|
 
 ## CUL DE CHOUETTE
-> Projet réalisé "jour 2" en sortie de formation (2021) — première application web complète (frontend + backend, contenu administrable).
+> Projet réalisé "jour 2" en sortie de formation (2021), première application web complète (frontend + backend, contenu administrable).
 
-*Application complète autour du jeu de dés "cul de chouette" (règles communautaires du jeu évoqué dans la série Kaamelott) : accueil et articles administrables, page des règles, comptes joueurs, classement façon borne d'arcade et statistiques par joueur — et le jeu lui-même : lancers en deux temps, détection automatique des figures, mode entraînement ou adversaires scriptés.*
+*Application complète autour du jeu de dés "cul de chouette" (règles communautaires du jeu évoqué dans la série Kaamelott) : accueil et articles administrables, page des règles, comptes joueurs, classement façon borne d'arcade et statistiques par joueur, et le jeu lui-même : lancers en deux temps, détection automatique des figures, mode entraînement ou adversaires scriptés.*
 
 *Intérêt technique : première app fullstack, gestion de contenu administrable (WordPress), comptes et données persistantes (scores, statistiques) ; côté jeu, adversaires aux comportements scriptés différenciés (vitesse, prise de risque, aléa) et détection de figures/scoring complet en JS.*
 
