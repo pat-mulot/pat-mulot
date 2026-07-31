@@ -91,5 +91,5 @@ principaux langages/techno utilisés : Vue.js, SASS
 
 me contacter :
 ```
-pat.mulot.pro@gmail.com
+patrice.mulot.pro@gmail.com
 ```  
