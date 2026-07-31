@@ -9,10 +9,29 @@ L'essentiel de mon travail vit dans des codebases privées/clients, comme pour l
 - *[profil **LinkedIn**](https://www.linkedin.com/in/patrice-mulot-844a4721b/)*.
 <!-- - *[TODO][lien CV] : héberger quelque part sur ma machine distante un lien vers le pdf généré, voir faire un dépot juste pour ça ? réfléchir à un moyen de l'update et le rendre dispo directement et facilement[/TODO]*. -->
 
-***Ici**, vous trouverez quelques projets personnels dont mes tout premiers, assumés tels quels."*
+***Ici**, vous trouverez le projet de fond sur lequel je travaille aujourd'hui, ainsi que mes tout premiers projets personnels, assumés tels quels.*
 
-# QUELQUES PROJETS
-*Mes projets personnels, point de départ de mon parcours dev :*  
+# PROJET ACTUEL
+
+## Écosystème Laravel/Vue « metadata-driven » + générateur de code
+> Projet personnel de fond, ~2 ans de travail, toujours en cours. **Code privé** — le socle n'est pas stabilisé. Je le décris ici parce qu'il représente l'essentiel de mon travail de conception.
+
+**Le problème :** quand on développe plusieurs applications métier proches, on les redéveloppe presque à l'identique, puis on les maintient séparément. Un correctif de sécurité trouvé sur l'application A ne remonte jamais jusqu'à l'application B. Ce n'est pas un coût de production, c'est un coût de maintenance qui se paie pendant des années et la génération par IA amplifie le phénomène plutôt qu'elle ne le résout : régénérer N fois un code chaque fois légèrement différent, c'est repayer la production, repayer la relecture, et produire N variantes divergentes.
+
+**L'approche :** chaque ressource déclare sa forme une seule fois, champs, relations, contraintes, dans une classe *metadata*, et un générateur produit l'intégralité de ses fichiers source à partir d'une configuration JSON : contrôleurs, modèles, migrations, services, vues, tests, et documentation destinée autant aux humains qu'aux IA. On ne développe plus les applications, on maintient le système qui les génère : un correctif se fait à un seul endroit et se propage par régénération.
+
+**Briques principales :**
+- un micro-service d'identité (signature JWT RS256 + JWKS avec clé privée pour signer et clé publique pour vérifier, permissions à grain fin façon keycloak, 2FA).
+- Un backend métier e-commerce pour use-case réel (flow de commande à checksum, traçabilité multi-niveaux, idempotence de paiement où un double-clic ou un rechargement ne crée jamais deux commandes ni deux débits)
+- un package « core » partagé entre les applications
+- le générateur.
+
+*Projet démarré 1 an avant l'arrivée des assistants de code : l'objectif était déjà de réduire la duplication et la dette de maintenance. L'IA est venue accélérer la démarche du projet, pas la motiver.*
+
+---
+
+# PREMIERS PROJETS
+*Ce sont certains de mes projets personnels réalisés en sortie de formation dont j'ai pu boucler une forme "démonstrative" rapidement afin de pouvoir les rendre public pour "portfolio" assumés tels quels et pour pouvoir passer à d'autres projets. C'est le point de départ de mon parcours dev*  
 *voir [les projets](https://github.com/pat-mulot?tab=repositories)*
 
 ## Space Pat-Vaders
